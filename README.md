@@ -17,7 +17,7 @@ The Text to Image AI Generator is an innovative web application that uses advanc
 
 ## Demo
 
-![Screenshot 2023-07-30 232944](https://github.com/PMTDVA/StableDiffusion_GoogleCollab/assets/75931958/24e40b8f-3a91-42d8-837f-72240a8b2cd9)
+![Screenshot 2023-07-30 232944](demo.png)
 
 ## Getting Started
 
