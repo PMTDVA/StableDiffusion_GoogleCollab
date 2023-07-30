@@ -1,6 +1,6 @@
 # Stable Diffusion WebUI
 
-![Project Logo](logo.png) <!-- Replace with your project logo or a relevant image -->
+![Project Logo](logo.jpg) <!-- Replace with your project logo or a relevant image -->
 
 ## Description
 
