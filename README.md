@@ -1,6 +1,4 @@
-# Text to Image AI Generator
-
-![Project Logo](logo.jpg) <!-- Replace with your project logo or a relevant image -->
+# Stable Diffusion - Google Collab -
 
 ## Description
 
@@ -13,26 +11,29 @@ The Text to Image AI Generator is an innovative web application that uses advanc
 - Experiment with different models to get varied artistic styles.
 - Seamless integration with Google Colab for easy accessibility.
 
+## WORKS WITH ANY CUSTOM MODELS and LORA TOO!
+
 <!-- Include any additional relevant information about your project's purpose and capabilities -->
 
 ## Demo
 
-If possible, consider providing a link to a live demo or a GIF/video showcasing the functionality of your web application.
+![Screenshot 2023-07-30 232944](https://github.com/PMTDVA/StableDiffusion_GoogleCollab/assets/75931958/24e40b8f-3a91-42d8-837f-72240a8b2cd9)
 
 ## Getting Started
 
 ### Prerequisites
 
-List any prerequisites or dependencies that users need to have before running your web application. For example, mention if they need a Google Colab account or specific Python packages.
+- Google Collab
 
 ### Installation
 
-Provide step-by-step instructions to set up and run your web application locally or in Google Colab. Include code snippets and commands as necessary.
+- Download the repo and open the notebook in google collab, and check the instructions in the notebook!
 
 ### Usage
 
 1. Access the web application by [linking it to Google Colab / hosting it on a server].
 2. Enter or paste your textual description in the provided input field.
+
 3. Optionally, customize additional settings like image size, style, etc.
 4. Click "Generate Image" to initiate the text-to-image generation process.
 5. View and download the generated image.
@@ -59,12 +60,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-Give credit to the people, organizations, or resources that have inspired or helped your project.
-
-## Contact
-
-Provide your contact information or any other ways users can reach out to you.
-
----
-
-Feel free to customize this template according to your project's specific details. If you have any unique features or usage instructions, make sure to highlight them in the README. A well-crafted README will make your project more accessible and inviting to users and contributors. Good luck with your project! 🌌
+[AUTOMATIC1111](https://github.com/AUTOMATIC1111)
